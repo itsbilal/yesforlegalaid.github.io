@@ -1,0 +1,49 @@
+
+img.logo {
+    max-width:300px;
+}
+
+.main-heading h3, .main-heading div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.heading-muted {
+    font-weight: 300;
+}
+
+.jumbotron {
+    background-color: #FFB957;
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+.cards-title {
+    margin-bottom: 40px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #DBDBDB;
+}
+
+footer a:link, footer a:visited, footer a:hover {
+    color: #6c757d;
+}
+
+section {
+    padding: 30px 30px;
+}
+
+.more-details {
+    background-color: #DBDBDB;
+    color: #222;
+}
+
+section h3 {
+    margin-bottom: 30px;
+}
+
+.about-us {
+    color: #888;
+}
